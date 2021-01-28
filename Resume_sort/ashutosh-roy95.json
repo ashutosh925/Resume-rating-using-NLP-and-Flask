@@ -1,0 +1,192 @@
+{
+  "contact": {},
+  "profileAlternative": {
+    "name": "Dismiss open to opportunities prompt\n\nShow recruiters you’re open to job opportunities—you control who sees this.\n\nGet started",
+    "headline": "Software Engineer at Xoriant",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQEXZr1_T1wO8w/profile-displayphoto-shrink_200_200/0?e=1581552000&v=beta&t=l91EF5N8JR11HdMXLAsZOrB2T6y_oglK33icfQ4pMdM",
+    "summary": "software developer, Freelancer, Business Enthusiast"
+  },
+  "aboutAlternative": {
+    "text": "software developer, Freelancer, Business Enthusiast"
+  },
+  "positions": [
+    {
+      "title": "Software Engineer",
+      "companyName": "Xoriant",
+      "location": "Pune Area, India",
+      "date1": "Jan 2019 – Present",
+      "date2": "1 yr"
+    },
+    {
+      "title": "Freelance Web Developer",
+      "companyName": "Freelancer",
+      "date1": "Oct 2017 – Present",
+      "date2": "2 yrs 3 mos"
+    },
+    {
+      "title": "Junior Software Developer (php CI)",
+      "companyName": "WebCuits",
+      "location": "Nagpur Area, India",
+      "description": "It was Great Experience here, I Learned many thing ,Happy Environment. Best Place to Start Carrier.",
+      "date1": "Jun 2018 – Dec 2018",
+      "date2": "7 mos"
+    },
+    {
+      "title": "Kendriya Vidyalaya"
+    },
+    {
+      "title": "Volunteer",
+      "companyName": "Institution of Electronics and Telecommunication Engineers",
+      "description": "we organized a national level tech-fest at our college Aaghaz where no of technical and non-technical events conducted.",
+      "date1": "Jan 2016"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Kendriya Vidyalaya",
+      "date1": "2004",
+      "date2": "2014"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Python"
+    },
+    {
+      "title": "php"
+    },
+    {
+      "title": "PhpMyAdmin"
+    },
+    {
+      "title": "Machine Learning"
+    },
+    {
+      "title": "Object-Oriented Programming (OOP)"
+    },
+    {
+      "title": "C"
+    },
+    {
+      "title": "java"
+    },
+    {
+      "title": "Adobe Photoshop"
+    },
+    {
+      "title": "C++"
+    },
+    {
+      "title": "mysql"
+    },
+    {
+      "title": "HTML5"
+    },
+    {
+      "title": "css"
+    },
+    {
+      "title": "jQuery"
+    },
+    {
+      "title": "Bootstrap"
+    },
+    {
+      "title": "JavaScript"
+    },
+    {
+      "title": "NetBeans"
+    },
+    {
+      "title": "WordPress"
+    },
+    {
+      "title": "Eclipse"
+    },
+    {
+      "title": "Sublime Text"
+    },
+    {
+      "title": "Atom"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "0",
+      "title": "Course",
+      "items": [
+        "Publication",
+        "Patent",
+        "Course",
+        "Project",
+        "Honor and Award",
+        "Test Score",
+        "Language",
+        "Organization"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/ankita-sinha-aaa08890/",
+      "text": "Software Analyst at Yardi Software India Pvt Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/oshin-ramteke-41814317b/",
+      "text": "Intern at COJAG"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aishwarya-kale-0119b1131/",
+      "text": "Fresher"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yugant-kadu-5740a6146/",
+      "text": "A Software Development Enthusiast | Junior Software Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/dushyant-singh-a6629859/",
+      "text": "--"
+    },
+    {
+      "user": "https://www.linkedin.com/in/priyashree-biswas-190bb6112/",
+      "text": "Be you! The world will follow :)"
+    },
+    {
+      "user": "https://www.linkedin.com/in/desmond-lawrence-81705625/",
+      "text": "--"
+    },
+    {
+      "user": "https://www.linkedin.com/in/deepak-gupta-94a995117/",
+      "text": "Software engineer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/saral-kumar-kalwalwar-9b75899a/",
+      "text": "Software Developer"
+    },
+    {
+      "user": "https://www.linkedin.com/in/satish-wanjari-427834126/",
+      "text": "Mean Stack Developer whose able to work any technology using logic"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Volunteer",
+      "experience": "Institution of Electronics and Telecommunication Engineers",
+      "description": "Science and Technology",
+      "date1": "Jan 2016",
+      "date2": "1 mo"
+    }
+  ],
+  "profile": {
+    "name": "Dismiss open to opportunities prompt\n\nShow recruiters you’re open to job opportunities—you control who sees this.\n\nGet started",
+    "headline": "Software Engineer at Xoriant",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQEXZr1_T1wO8w/profile-displayphoto-shrink_200_200/0?e=1581552000&v=beta&t=l91EF5N8JR11HdMXLAsZOrB2T6y_oglK33icfQ4pMdM",
+    "summary": "software developer, Freelancer, Business Enthusiast"
+  }
+}

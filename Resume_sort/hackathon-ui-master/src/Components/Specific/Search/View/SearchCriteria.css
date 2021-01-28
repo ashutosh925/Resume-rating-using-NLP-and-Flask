@@ -1,0 +1,14 @@
+@media all and (min-width: 480px) {
+  .searchContainerAlignment {
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+
+  .fieldLabelAlignment {
+    margin-top: 8px;
+  }
+
+  .resetButtonAlignment {
+    margin-left: 40px;
+  }
+}

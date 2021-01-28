@@ -1,0 +1,323 @@
+{
+  "contact": {},
+  "profileAlternative": {
+    "name": "Francois Zaninotto",
+    "headline": "Marmelab CEO, entrepreneur, manager, agile & lean startup coach, Web architect, open-source enthusiast",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEGNwYjT3s7sw/profile-displayphoto-shrink_200_200/0?e=1581552000&v=beta&t=en1Jzq2rBZKU1XfuajyVZBsh6XHzVNDsGrIlwPgrbIo",
+    "location": "Nancy, Lorraine, France",
+    "connections": "500+",
+    "summary": "Entrepreneur in digital innovation, open-source software enthusiast, tribe leader\n\nSpecialties: Digital Innovation, Internet strategy, IT governance, team management, open-source software platforms, web usability, server architecture, agile project management, symfony framework, Node.js, book writing."
+  },
+  "aboutAlternative": {
+    "text": "Entrepreneur in digital innovation, open-source software enthusiast, tribe leader\n\nSpecialties: Digital Innovation, Internet strategy, IT governance, team management, open-source software platforms, web usability, server architecture, agile project management, symfony framework, Node.js, book writing."
+  },
+  "positions": [
+    {
+      "title": "CEO & co-founder",
+      "companyName": "marmelab",
+      "description": "Marmelab is a Digital Innovation Workshop.\nWe identify, design and build solutions from start to finish, for companies placing technology at the heart of their strategy.\nWe gather together the best web and open-source talents to serve value creation, based on pragmatism, agility, and the taste of work well done.",
+      "date1": "Oct 2012 – Present",
+      "date2": "7 yrs 3 mos"
+    },
+    {
+      "title": "CTO, Directeur Technique",
+      "companyName": "e-TF1",
+      "description": "In charge of all the technical aspects of e-TF1 properties on Internet, mobile, IPTV, and Connect TV platforms.\n\n* Delivering Web Content to 19M Unique Visitors according to Nielsen NetRatings\n* Head of a team of 50 engineers dealing with:\n** Software design\n** Web Development\n** Project Management\n** Architecture\n** Production\n** Infrastructure\n** R&D\n* Managing a budget > 8M€\n* Defining the IT strategy\n…\n",
+      "date1": "Jun 2009 – Sep 2012",
+      "date2": "3 yrs 4 mos"
+    },
+    {
+      "title": "CTO",
+      "companyName": "Ma Generation",
+      "description": "Management of the IT team (up to 7 people).\nDesign, development and monitoring of the software and hardware infrastructure of a B2C web portal (1M+ Unique Visitors NNR).\nLeverage Agile techniques and Open-source Software (mostly PHP, MySQL and Symfony) to boost deliverability and lower costs.\n…\n",
+      "date1": "Sep 2007 – May 2009",
+      "date2": "1 yr 9 mos"
+    },
+    {
+      "title": "Manager",
+      "companyName": "Sensio",
+      "description": "Project Management and Consulting on Web Application development, including early design decisions, technical orientations, usability expertise, day-to-day scheduling and follow-up of large projects.\nTraining, Auditing and Consulting on rapid application development with PHP5 and symfony. Authored \"The Definitive Guide To Symfony\" (Apress).\n…\n",
+      "date1": "Sep 2003 – Aug 2007",
+      "date2": "4 yrs"
+    },
+    {
+      "title": "Project Manager",
+      "companyName": "ViaMichelin",
+      "description": "Supervised the creation of the new ViaMichelin portal (replacement for the old michelin-travel.com portal) from a frontend point of view.\nWrote requirements, chose contractors, followed development, validated contractors work, maintained budget and planning.",
+      "date1": "Oct 1998 – Oct 2001",
+      "date2": "3 yrs 1 mo"
+    },
+    {
+      "title": "Ecole Nationale Supérieure des Mines de Nancy",
+      "companyName": "Degree Name\nDiplôme d'Ingénieur Civil des Mines"
+    },
+    {
+      "title": "Logistician/Administrator",
+      "companyName": "Médecins Sans Frontières (MSF)",
+      "description": "In a medical mission in Sierra Leone, at the end of a 10-year war, I was in charge of the logistics (security, cars, communications, stock, etc.) and administration (payroll for 80 employees, contracts, accounting) for a refugee camp, a pediatric unit in a regional hospital, and the health centers of three villages around.",
+      "date1": "Jul 2002 – Dec 2002"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Ecole Nationale Supérieure des Mines de Nancy",
+      "degree": "Diplôme d'Ingénieur Civil des Mines",
+      "fieldofstudy": "Option Informatique",
+      "date1": "1994",
+      "date2": "1997"
+    }
+  ],
+  "skills": [
+    {
+      "title": "PHP",
+      "count": "45"
+    },
+    {
+      "title": "Symfony",
+      "count": "35"
+    },
+    {
+      "title": "Agile Methodologies",
+      "count": "33"
+    },
+    {
+      "title": "Web Development",
+      "count": "21"
+    },
+    {
+      "title": "Agile Project Management",
+      "count": "16"
+    },
+    {
+      "title": "Mobile Devices",
+      "count": "15"
+    },
+    {
+      "title": "Architecture",
+      "count": "12"
+    },
+    {
+      "title": "Project Management",
+      "count": "7"
+    },
+    {
+      "title": "Web Applications",
+      "count": "6"
+    },
+    {
+      "title": "Web Project Management",
+      "count": "6"
+    },
+    {
+      "title": "Digital Media",
+      "count": "5"
+    },
+    {
+      "title": "Mobile Applications",
+      "count": "4"
+    },
+    {
+      "title": "Cloud Computing",
+      "count": "3"
+    },
+    {
+      "title": "Agile",
+      "count": "3"
+    },
+    {
+      "title": "IT Strategy",
+      "count": "2"
+    },
+    {
+      "title": "Information Architecture",
+      "count": "2"
+    },
+    {
+      "title": "Budget Management",
+      "count": "1"
+    },
+    {
+      "title": "Web Video",
+      "count": "1"
+    },
+    {
+      "title": "Scalability",
+      "count": "1"
+    },
+    {
+      "title": "Architectures",
+      "count": "1"
+    },
+    {
+      "title": "Entrepreneurship",
+      "count": "1"
+    },
+    {
+      "title": "Online Video"
+    },
+    {
+      "title": "Consulting"
+    },
+    {
+      "title": "Open Source",
+      "count": "26"
+    },
+    {
+      "title": "Git",
+      "count": "7"
+    },
+    {
+      "title": "Node.js",
+      "count": "6"
+    },
+    {
+      "title": "Open Source Software",
+      "count": "4"
+    },
+    {
+      "title": "Web 2.0",
+      "count": "3"
+    },
+    {
+      "title": "Apache",
+      "count": "2"
+    },
+    {
+      "title": "LAMP",
+      "count": "1"
+    },
+    {
+      "title": "React",
+      "count": "1"
+    },
+    {
+      "title": "JavaScript",
+      "count": "1"
+    },
+    {
+      "title": "Team Management",
+      "count": "11"
+    },
+    {
+      "title": "Propel",
+      "count": "4"
+    },
+    {
+      "title": "Internet Strategy",
+      "count": "3"
+    },
+    {
+      "title": "IT Infrastructure Management",
+      "count": "1"
+    },
+    {
+      "title": "IT Governance"
+    },
+    {
+      "title": "lean startup"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "5",
+    "receivedCount": "3",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/michel-cordival-cio-cdo/",
+        "text": "J'ai travaillé 3 ans avec François. Il sait combiner la compétence technique, le management et l'enthousiasme. Il trouve toujours le compromis entre tous les points de vue. Ne vous laissez pas tromber par son air timide, il est redoutablement efficace mais modeste !"
+      },
+      {
+        "user": "https://www.linkedin.com/in/jean-david-cohen-0b710b4/",
+        "text": "Collaboration with François brought to our projects a lot more than his skills and technical expertise. François is a smart, talented technology professional with a remarkable understanding of stakes, a solution oriented mindset, served with common sense and a sense of humor."
+      },
+      {
+        "user": "https://www.linkedin.com/in/fabienpotencier/",
+        "text": "Working with François has always been a great pleasure. Even if he is not a web developer as he likes to say, he definitely has a very deep technical knowledge on everything related to the web. His best capacity: being fast; he understands things so quickly and he works so fast that you'd better be prepared. And be wa... See more"
+      }
+    ],
+    "received": [
+      {
+        "user": "https://www.linkedin.com/in/dylan-demougin-1a2b02133/",
+        "text": "Durant son stage de 3 mois, Dylan est monté en compétence rapidement sur un environnement technologique complètement nouveau pour lui. Sa polyvalence et sa qualité d'écoute ont été des atouts importants. Comme il a l'esprit d'équipe, il progresse d'autant plus vite. Il sait partager ses questionnements et ses découvertes. Cette expérience lui a permis de se familiariser avec le développement agile, la programmation asynchrone, Selenium et Contextor.\n\n... See more"
+      },
+      {
+        "user": "https://www.linkedin.com/in/robin-bressan-99854141/",
+        "text": "Robin is a fast learner. He became a proficient JavaScript developer within months of his arrival at marmelab, and started coaching newcomers with great success after a year. He detects and applies the best practises, writes robust and well tested code.\r\n\r\nHe does a lot of reading to find the most idiomatic way to write code, or the best open-source library to use for a particular purpose.\r\n\r\nHe's also a team player. He accepts criticism and is very constructive with other developers, too (we do systematic code reviews via pull requests). \r\n\r\nI'd definitely recommend him for any JavaScript-related mission (client side or server-side).\n\n... See more"
+      }
+    ]
+  },
+  "accomplishments": [
+    {
+      "count": "4",
+      "title": "Languages",
+      "items": [
+        "English",
+        "French",
+        "Slovak",
+        "Spanish",
+        "gremlins.js",
+        "Faker",
+        "Propel",
+        "The Definitive Guide to Symfony"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/kimelyne/",
+      "text": "Étudiante à EPITA - Cherche un stage de fin d'étude à partir de février 2020"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aurore-le-houssel-4672b0175/",
+      "text": "Etudiante à l'INSA de Lyon - Sportive de Haut Niveau"
+    },
+    {
+      "user": "https://www.linkedin.com/in/fredericbernaroyat/",
+      "text": "Managing Director at PALO IT"
+    },
+    {
+      "user": "https://www.linkedin.com/in/albandalle/",
+      "text": "Agile Coach & Manager"
+    },
+    {
+      "user": "https://www.linkedin.com/in/pelaunay/",
+      "text": "Product Owner Mobile - Freelance"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aline-crepeau-8112799/",
+      "text": "Facilitatrice et formatrice en créativité et en intelligence collective, accompagne les équipes dans leurs transformations"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jean-jacques-gauthier-13610826/",
+      "text": "Chief Executive Officer LafargeHolcim Algeria"
+    },
+    {
+      "user": "https://www.linkedin.com/in/martin-calnan-086125/",
+      "text": "Director, Executive Education at École des Ponts Business School"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brunolartillot/",
+      "text": "CEO P-Pit"
+    },
+    {
+      "user": "https://www.linkedin.com/in/crochas/",
+      "text": "Consultant devops at Xebia"
+    }
+  ],
+  "volunteerExperience": [
+    {
+      "title": "Logistician/Administrator",
+      "experience": "Médecins Sans Frontières (MSF)",
+      "description": "Health",
+      "date1": "Jul 2002 – Dec 2002",
+      "date2": "6 mos"
+    }
+  ],
+  "profile": {
+    "name": "Francois Zaninotto",
+    "headline": "Marmelab CEO, entrepreneur, manager, agile & lean startup coach, Web architect, open-source enthusiast",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQEGNwYjT3s7sw/profile-displayphoto-shrink_200_200/0?e=1581552000&v=beta&t=en1Jzq2rBZKU1XfuajyVZBsh6XHzVNDsGrIlwPgrbIo",
+    "location": "Nancy, Lorraine, France",
+    "connections": "500+",
+    "summary": "Entrepreneur in digital innovation, open-source software enthusiast, tribe leader\n\nSpecialties: Digital Innovation, Internet strategy, IT governance, team management, open-source software platforms, web usability, server architecture, agile project management, symfony framework, Node.js, book writing."
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "contact": {},
+  "profileAlternative": {
+    "name": "Prakash Shelokar",
+    "headline": "Director Technology at Xoriant",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGMTiPbChec6Q/profile-displayphoto-shrink_200_200/0?e=1581552000&v=beta&t=LnlsO7-6Cd3H7vUvSzBIF-BQ9HlZvQwQTJwKtUeXrHg",
+    "location": "Pune, Maharashtra, India",
+    "connections": "157",
+    "summary": "15+ years of Industrial and R&D Experience in developing predictive analytics solutions in the area of Marketing Analytics, Customer Insights, Telecom, Health Care, Operational Risk Management, Natural Language Processing, etc.\n\nTransforming business problems into analytical solutions and identifying relevant use cases with business metrics.\n\nSolution design, development and implementation of Data Mining, Machine Learning, Text Mining, and Statistical Methods to solve business problems.\n\nApplication of Data Science techniques:\n- Text Mining (Sentiment Analysis, Topic Modeling, Semantic Search, Named Entity Recognition)\n- Machine Learning (Logistic Regression, SVM, Random Forest, Gradient Boosting)\n- Data Mining (K-means, DBSCAN clustering, Association Rule Mining)\n- Statistical (PCA, Mahalanobis distance, Box-plot)\n\n- Experience in Predictive Analytics training for junior and senior team members across analytics group.\n\n- 5+ years of Post-doctorate research experience in Graph Pattern Mining, Frequent Pattern Mining, Social Media Analysis.\n- 25+ peer-reviewed publications in international conferences and journals.\n\nInterests:\n- Data Mining, Machine Learning, Text Mining\n- Gain deep business understanding to align technical solution to business domain\n\nSkills:\nsentiment analysis, topic modeling, semantic search\nanomaly/outlier detection, risk scoring\ncustomer personalization & segmentation, campaign design\nCustomer Churn Prediction\n\nAnalytics Software Skills: Python, R, Matlab, WEKA"
+  },
+  "aboutAlternative": {
+    "text": "15+ years of Industrial and R&D Experience in developing predictive analytics solutions in the area of Marketing Analytics, Customer Insights, Telecom, Health Care, Operational Risk Management, Natural Language Processing, etc.\n\nTransforming business problems into analytical solutions and identifying relevant use cases with business metrics.\n\nSolution design, development and implementation of Data Mining, Machine Learning, Text Mining, and Statistical Methods to solve business problems.\n\nApplication of Data Science techniques:\n- Text Mining (Sentiment Analysis, Topic Modeling, Semantic Search, Named Entity Recognition)\n- Machine Learning (Logistic Regression, SVM, Random Forest, Gradient Boosting)\n- Data Mining (K-means, DBSCAN clustering, Association Rule Mining)\n- Statistical (PCA, Mahalanobis distance, Box-plot)\n\n- Experience in Predictive Analytics training for junior and senior team members across analytics group.\n\n- 5+ years of Post-doctorate research experience in Graph Pattern Mining, Frequent Pattern Mining, Social Media Analysis.\n- 25+ peer-reviewed publications in international conferences and journals.\n\nInterests:\n- Data Mining, Machine Learning, Text Mining\n- Gain deep business understanding to align technical solution to business domain\n\nSkills:\nsentiment analysis, topic modeling, semantic search\nanomaly/outlier detection, risk scoring\ncustomer personalization & segmentation, campaign design\nCustomer Churn Prediction\n\nAnalytics Software Skills: Python, R, Matlab, WEKA"
+  },
+  "positions": [
+    {
+      "title": "Xoriant",
+      "location": "Pune Area, India",
+      "description": "Role:\n- Head, Data Science Team\n- SME in data science for transforming business problem into analytical solution.\n- Development of PoC\n- Support Pre-sales\n- Predictive analytics training\n\nSolutions:\n- Mobile users Gender, Age-group prediction based on internet usage on their handset\n- Mobile users Home and Work locations prediction based on movement logs (latitude, longitude)\n- Topic identification and sentiment scoring for doctors based on patient reviews.\n- Semantic Search for cause identification in operational risk management documents\n- Event Identification with details of Place and Location of event from online local news media\n…\n",
+      "date1": "Apr 2019 – Present",
+      "date2": "9 mos",
+      "roles": [
+        {
+          "title": "Director Technology",
+          "date1": "Apr 2019 – Present",
+          "date2": "9 mos",
+          "location": "Pune Area, India"
+        },
+        {
+          "title": "Principal Architect (Data Science)",
+          "date1": "Apr 2018 – Mar 2019",
+          "date2": "1 yr",
+          "location": "Pune Area, India"
+        },
+        {
+          "title": "Technical Architect (Data Science)",
+          "description": "Role:\n- Head, Data Science Team\n- SME in data science for transforming business problem into analytical solution.\n- Development of PoC\n- Support Pre-sales\n- Predictive analytics training\n\nSolutions:\n- Mobile users Gender, Age-group prediction based on internet usage on their handset\n- Mobile users Home and Work locations prediction based on movement logs (latitude, longitude)\n- Topic identification and sentiment scoring for doctors based on patient reviews.\n- Semantic Search for cause identification in operational risk management documents\n- Event Identification with details of Place and Location of event from online local news media\n…\n",
+          "date1": "Jul 2016 – Mar 2018",
+          "date2": "1 yr 9 mos",
+          "location": "Pune Area, India"
+        }
+      ]
+    },
+    {
+      "title": "Analytics Lead",
+      "companyName": "Opera Solutions",
+      "description": "Development of advanced analytical solutions to successfully address business problems such as Accelerated Risk Management, Outlier detection, Propensity Modeling, Customer Segmentation, Mining and classifying text data, Site selection.\nExperience of leading analytics teams, developing end to end algorithmic processes, training junior team members, training analytics group.\nExperience in Machine Learning in Python (scikit-learn, pandas, numpy libraries)\n…\n",
+      "date1": "May 2014 – Jul 2016",
+      "date2": "2 yrs 3 mos"
+    },
+    {
+      "title": "Postdoctoral Researcher",
+      "companyName": "European Centre for Soft Computing",
+      "description": "The application and development of artificial intelligence techniques, data mining and multiobjective optimization for meaningful pattern mining in graph represented data in the area of information science, web data and chemical data.\nPrincipal Investigator for one and Co-Investigator for two research projects sponsored by the Spanish Government.\nProblem formulation and algorithm development for marine vessel routing optimization sponsored by an Oil & Gas Company.\nExperience in genetic algorithms, ant colony optimization, multiobjective optimization, rule-based classification, clustering, frequent pattern mining in graph-based data.\n…\n",
+      "date1": "Apr 2009 – Apr 2014",
+      "date2": "5 yrs 1 mo"
+    },
+    {
+      "title": "National Chemical Laboratory",
+      "description": "R&D Experience as a part of PhD Thesis on the development of Computational Intelligence methods for data mining problems including Classification, Clustering, Regression etc.",
+      "date1": "Aug 2005 – Jan 2009",
+      "date2": "3 yrs 6 mos",
+      "roles": [
+        {
+          "title": "Research Fellow",
+          "description": "R&D Experience as a part of PhD Thesis on the development of Computational Intelligence methods for data mining problems including Classification, Clustering, Regression etc.",
+          "date1": "Aug 2005 – Jan 2009",
+          "date2": "3 yrs 6 mos"
+        },
+        {
+          "title": "Research Fellow",
+          "description": "R&D Experience as a part of M.E.(by Res.) work on the development of Computational Intelligence methods to solve optimization and data mining problems.\n\n• Project: Classification of E. coli Bacterial Growth Data; Rules of the IF-THEN form were produced to identify the bacteria growth conditions.\n• Project: Data Clustering using ant colony optimization; Developed a new algorithm to find optimal clusters in the data.\n…\n",
+          "date1": "Jul 2003 – Aug 2005",
+          "date2": "2 yrs 2 mos"
+        },
+        {
+          "title": "Project Assistant",
+          "description": "Application of evolutionary algorithms to solve combinatorial, continuous, and dynamic optimization problems in process engineering.\nWorked with analytics software: Matlab, WEKA\nProgramming languages: C/C++, Java",
+          "date1": "Sep 2000 – Jun 2003",
+          "date2": "2 yrs 10 mos"
+        }
+      ]
+    },
+    {
+      "title": "Application Developer (consultant)",
+      "companyName": "InSilico Consulting",
+      "description": "Guiding development of technical work flows for the InforSense customer support hub that was a key differentiator for Inforsense to retain and win new clients from areas ranging from bioinformatics, chemoinformatics to clinical informatics. These clients apply Inforsense KDE platform to perform data analysis tasks such as data cleaning, classification, regression, clustering, and data visualization\n…\n",
+      "date1": "Dec 2006 – Apr 2008",
+      "date2": "1 yr 5 mos"
+    },
+    {
+      "title": "National Chemical Laboratory/University of Pune",
+      "companyName": "Degree Name\nPh.D.",
+      "description": "Thesis has developed Computational Intelligence techniques to solve combinatorial and continuous function optimization problems, data mining applications in process engineering.\n\nTechniques: Ant colony optimization; Genetic Algorithms; Decision Trees; SVM; k-means clustering\nProblems: Optimization, Clustering, Classification\nTools: MatLab, R, WEKA"
+    },
+    {
+      "title": "Nagpur University",
+      "companyName": "Degree Name\nM.E. (by Research)",
+      "description": "Master project has developed Computational Intelligence techniques for solving multiobjective and dynamic process optimization problems."
+    },
+    {
+      "title": "Maharashtra Institute of Technology",
+      "companyName": "Degree Name\nB.E."
+    }
+  ],
+  "educations": [
+    {
+      "title": "National Chemical Laboratory/University of Pune",
+      "degree": "Ph.D.",
+      "fieldofstudy": "Application of Metaheuristics in Process System Engineering",
+      "date1": "2005",
+      "date2": "2009"
+    },
+    {
+      "title": "Nagpur University",
+      "degree": "M.E. (by Research)",
+      "fieldofstudy": "Computational Intelligence, Chemical Engineering",
+      "date1": "2003",
+      "date2": "2005"
+    },
+    {
+      "title": "Maharashtra Institute of Technology",
+      "degree": "B.E.",
+      "fieldofstudy": "Chemical",
+      "date1": "1996",
+      "date2": "2000"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Machine Learning",
+      "count": "14"
+    },
+    {
+      "title": "Pattern Recognition",
+      "count": "9"
+    },
+    {
+      "title": "Bioinformatics",
+      "count": "8"
+    },
+    {
+      "title": "Data Mining",
+      "count": "7"
+    },
+    {
+      "title": "Data Analysis",
+      "count": "5"
+    },
+    {
+      "title": "Genetic Algorithms",
+      "count": "6"
+    },
+    {
+      "title": "Computational Intelligence",
+      "count": "5"
+    },
+    {
+      "title": "Swarm Intelligence",
+      "count": "2"
+    },
+    {
+      "title": "Information Science",
+      "count": "1"
+    },
+    {
+      "title": "Social Network Analysis",
+      "count": "1"
+    },
+    {
+      "title": "support vector machines",
+      "count": "1"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "1",
+    "receivedCount": "0",
+    "given": [
+      {
+        "user": "https://www.linkedin.com/in/skarnik/",
+        "text": "Shreyas joined our groupd at National Chemical Laboratory as an undergraduate student to work on his Bachelor's Degree project. After successful completion of the project, he was offered the project assistant position to work on the Government Funded Research Project. He has displayed a good blend of kno... See more"
+      }
+    ],
+    "received": []
+  },
+  "accomplishments": [
+    {
+      "count": "10",
+      "title": "Projects",
+      "items": [
+        "Marketing Database Build and Predictive Analytics",
+        "Risk Analysis and Management",
+        "Applications of Evolutionary Algorithms for Visual Science Maps",
+        "Optimization of Seismic Vessel Route for Oil Survey",
+        "Generation of Classification Rules for E. coli Bacterial Growth Data",
+        "SVM for Regression",
+        "Data Clustering using ant colony optimization",
+        "Development of Optimization Algorithm for Multiobjective Optimization",
+        "Optimal Scheduling of Multiproduct Batch Process",
+        "Data Clustering using Ant Colony Optimization",
+        "Juan de la Cierva Research Fellowship",
+        "Best Research Scholar in Engineering Science",
+        "Research Fellowship in Engineering Science",
+        "Best Research Paper",
+        "Best Research Paper Award in Engineering Science",
+        "English",
+        "Hindi",
+        "Marathi",
+        "Spanish",
+        "A multiobjective evolutionary programming framework for graph based-data mining",
+        "MOSubdue: A Pareto dominance-based multiobjective Subdue algorithm for frequent subgraph mining",
+        "Applied Data Science: An Introduction (online course by Syracuse University, NY)"
+      ]
+    }
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/nitin-jenekar-5975b514/",
+      "text": "Technical Lead at Xoriant solutions"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shubhangi-nawale-928a678/",
+      "text": "Technical Lead at Xoriant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/abhijit-waghmode-95a30523/",
+      "text": "Technical Lead"
+    },
+    {
+      "user": "https://www.linkedin.com/in/rohitsampat/",
+      "text": "Tech Lead at Xoriant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/sanketterdal/",
+      "text": "Empowering innovative solution by using full stack techno management skills"
+    },
+    {
+      "user": "https://www.linkedin.com/in/brajesh-mehra/",
+      "text": "Technical Lead at Xoriant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/amit-bhagat-15649623/",
+      "text": "BE - Bachelor of Engineering at University of Mumbai"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vinod-deshmukh-7730b426/",
+      "text": "Technical Lead at Xoriant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vinayak-mote/",
+      "text": "Senior Technical Lead at Xoriant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/vishal-shinde-262aa66/",
+      "text": "Architect"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Prakash Shelokar",
+    "headline": "Director Technology at Xoriant",
+    "imageurl": "https://media.licdn.com/dms/image/C5603AQGMTiPbChec6Q/profile-displayphoto-shrink_200_200/0?e=1581552000&v=beta&t=LnlsO7-6Cd3H7vUvSzBIF-BQ9HlZvQwQTJwKtUeXrHg",
+    "location": "Pune, Maharashtra, India",
+    "connections": "157",
+    "summary": "15+ years of Industrial and R&D Experience in developing predictive analytics solutions in the area of Marketing Analytics, Customer Insights, Telecom, Health Care, Operational Risk Management, Natural Language Processing, etc.\n\nTransforming business problems into analytical solutions and identifying relevant use cases with business metrics.\n\nSolution design, development and implementation of Data Mining, Machine Learning, Text Mining, and Statistical Methods to solve business problems.\n\nApplication of Data Science techniques:\n- Text Mining (Sentiment Analysis, Topic Modeling, Semantic Search, Named Entity Recognition)\n- Machine Learning (Logistic Regression, SVM, Random Forest, Gradient Boosting)\n- Data Mining (K-means, DBSCAN clustering, Association Rule Mining)\n- Statistical (PCA, Mahalanobis distance, Box-plot)\n\n- Experience in Predictive Analytics training for junior and senior team members across analytics group.\n\n- 5+ years of Post-doctorate research experience in Graph Pattern Mining, Frequent Pattern Mining, Social Media Analysis.\n- 25+ peer-reviewed publications in international conferences and journals.\n\nInterests:\n- Data Mining, Machine Learning, Text Mining\n- Gain deep business understanding to align technical solution to business domain\n\nSkills:\nsentiment analysis, topic modeling, semantic search\nanomaly/outlier detection, risk scoring\ncustomer personalization & segmentation, campaign design\nCustomer Churn Prediction\n\nAnalytics Software Skills: Python, R, Matlab, WEKA"
+  }
+}
