@@ -1,0 +1,96 @@
+{
+  "contact": {},
+  "profileAlternative": {
+    "name": "Aniket Pawar",
+    "headline": "Full Stack Developer at Capgemini",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQEDYx7cySjbyQ/profile-displayphoto-shrink_200_200/0?e=1581552000&v=beta&t=WXLyWCD_qaDgbAQwjch4AIHYYmOinvNykGXIKhIjUr8",
+    "location": "Pune, Maharashtra, India",
+    "connections": "9"
+  },
+  "aboutAlternative": {},
+  "positions": [
+    {
+      "title": "Senior Software Developer",
+      "companyName": "Capgemini",
+      "date1": "Sep 2018 – Present",
+      "date2": "1 yr 4 mos",
+	  "description": "lead the team with innovative Solutions for Client"
+    },{
+        "title": "Software Associate",
+        "companyName": "CGI",
+        "date1": "Sep 2016 – Sep2018",
+        "date2": "4 yr 4 mos",
+        "description": "inspired the team with active performance"
+    }
+    
+  ],
+  "educations": [],
+  "skills": [{
+      "title": "Python"
+  },
+  {
+      "title": "php"
+  },
+  {
+      "title": "PhpMyAdmin"
+  },
+  {
+      "title": "Machine Learning"
+  },
+  {
+      "title": "Object-Oriented Programming (OOP)"
+  },
+  {
+      "title": "C"
+  },
+  {
+      "title": "java"
+  },
+  {
+      "title": "Adobe Photoshop"
+  },
+  {
+      "title": "C++"
+  },
+  {
+      "title": "mysql"
+  },
+  {
+      "title": "HTML5"
+  }],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [],
+    "received": []
+  },
+  "accomplishments": [
+    {}
+  ],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/rujuta/",
+      "text": "Founder & CEO at Appcart Systems Pvt. Ltd And Founder & CEO at Olive Design Pvt. Ltd"
+    },
+    {
+      "user": "https://www.linkedin.com/in/avinashmadbhave/",
+      "text": "Senior Associate at Cognizant"
+    },
+    {
+      "user": "https://www.linkedin.com/in/aboli-kendule-2b1566159/",
+      "text": "Associate Software Consultant at Capita"
+    },
+    {
+      "user": "https://www.linkedin.com/in/shruti-warkar-22280774/",
+      "text": "Student at ness wadia commerce collage"
+    }
+  ],
+  "volunteerExperience": [],
+  "profile": {
+    "name": "Aniket Pawar",
+    "headline": "Full Stack Developer at Capgemini",
+    "imageurl": "https://media.licdn.com/dms/image/C5103AQEDYx7cySjbyQ/profile-displayphoto-shrink_200_200/0?e=1581552000&v=beta&t=WXLyWCD_qaDgbAQwjch4AIHYYmOinvNykGXIKhIjUr8",
+    "location": "Pune, Maharashtra, India",
+    "connections": "9"
+  }
+}
